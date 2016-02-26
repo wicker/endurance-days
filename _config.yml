@@ -1,0 +1,20 @@
+safe:        false
+port:        4000
+
+source:      .
+destination: ./_site
+
+future:      true
+lsi:         false
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+baseurl:     http://jennerhanni.net/endurance-days
+permalink:   /:title.html
+
+title:       City of Yuma Endurance Days
+description: Celebrating the 1949 world record endurance flight.
+author:      Jenner Hanni
+email:       jeh.wicker@gmail.com
+
+exclude:     [drafts, _site, scripts]
+
