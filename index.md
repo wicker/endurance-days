@@ -12,7 +12,7 @@ This page was created in collaboration with EAA Chapter 590 in Yuma, Arizona, so
 
 {% for post in site.posts %}
 <div class="blogthumb">
-  <a href="{{ post.url }}"><img src="{{ post.image }}"></a><br />
+  <a href="{{site.baseurl}}/{{ post.url }}"><img src="{{ post.image }}"></a><br />
   <div style="padding: 10px; line-height: 20px; height: 55px; overflow:hidden;"><a href="{{ post.url }}">{{ post.title }}</a></div>
   <div style="clear:both;"></div>
 </div>
