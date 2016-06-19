@@ -8,7 +8,7 @@ future:      true
 lsi:         false
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-baseurl:     http://jennerhanni.net/endurance-days
+baseurl:     /endurance-days
 permalink:   /:title.html
 
 title:       City of Yuma Endurance Days
