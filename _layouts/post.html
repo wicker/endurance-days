@@ -4,14 +4,14 @@ layout: default
 
 <nav style="width: 100%; margin-bottom: 20px; border-bottom: 1px solid #cfcfcf;">
   {% if page.next %}
-  <div style="float:left;">&nbsp; &laquo; <a href="{{ page.next.url }}">{{ page.next.title }}</a></div>
+  <div style="float:left;">&nbsp; &laquo; <a href="{{ site.baseurl }}/{{ page.next.url }}">{{ page.next.title }}</a></div>
   {% else %}
-  <div style="float:left;">&laquo; <a href="/">Front Page</a></div>
+  <div style="float:left;">&laquo; <a href="{{ site.baseurl }}/">Front Page</a></div>
   {% endif %}
   {% if page.previous %}
-  <div style="float:right;"><a href="{{ page.previous.url }}">{{ page.previous.title }}</a> &raquo; </div>
+  <div style="float:right;"><a href="{{ site.baseurl }}/{{ page.previous.url }}">{{ page.previous.title }}</a> &raquo; </div>
   {% else %}
-  <div style="float:right;"><a href="/">Front Page</a> &raquo;</div>
+  <div style="float:right;"><a href="{{ site.baseurl }}/">Front Page</a> &raquo;</div>
   {% endif %}
   <div style="clear:both;">&nbsp;</div>
 </nav>
@@ -23,14 +23,14 @@ layout: default
 <div style="clear:both;">&nbsp;</div>
 <nav style="width: 100%; margin-top: 20px; padding-top: 20px; border-top: 1px solid #cfcfcf;">
   {% if page.next %}
-  <div style="float:left;">&nbsp; &laquo; <a href="{{ page.next.url }}">{{ page.next.title }}</a></div>
+  <div style="float:left;">&nbsp; &laquo; <a href="{{ site.baseurl }}/{{ page.next.url }}">{{ page.next.title }}</a></div>
   {% else %}
-  <div style="float:left;">&laquo; <a href="/">Front Page</a></div>
+  <div style="float:left;">&laquo; <a href="{{ site.baseurl }}/">Front Page</a></div>
   {% endif %}
   {% if page.previous %}
-  <div style="float:right;"><a href="{{ page.previous.url }}">{{ page.previous.title }}</a> &raquo; </div>
+  <div style="float:right;"><a href="{{ site.baseurl }}/{{ page.previous.url }}">{{ page.previous.title }}</a> &raquo; </div>
   {% else %}
-  <div style="float:right;"><a href="/">Front Page</a> &raquo;</div>
+  <div style="float:right;"><a href="{{ site.baseurl }}/">Front Page</a> &raquo;</div>
   {% endif %}
   <div style="clear:both;">&nbsp;</div>
 </nav>
