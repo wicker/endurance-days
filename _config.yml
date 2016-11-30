@@ -16,5 +16,5 @@ description: Celebrating the 1949 world record endurance flight.
 author:      Jenner Hanni
 email:       jeh.wicker@gmail.com
 
-exclude:     [drafts, _site, scripts]
+exclude:     [_site]
 
