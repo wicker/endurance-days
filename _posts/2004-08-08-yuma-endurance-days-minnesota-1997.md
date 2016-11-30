@@ -1,8 +1,15 @@
---- 
+---
 layout: post
 title: Found in Minnesota
-image: /img/thumbs/yed-minnesota.png
 description: The plane was located in Minnesota in 1997.
+type: photos
+destination: endurance-days
+category: endurance
+subcat: 
+location: 
+image: /img/thumbs/yed-minnesota.png
+permalink: 
+publish: yes
 ---
 
  <img src="https://jenner.smugmug.com/Yuma-Endurance-Days/City-of-Yuma-Found-in/i-kmFbnL4/0/M/minnesota-1-M.jpg">
@@ -52,3 +59,5 @@ City of Yuma as a float plane.
  <img src="https://jenner.smugmug.com/Yuma-Endurance-Days/City-of-Yuma-Found-in/i-sZ6ppS2/0/M/minnesota-5-M.jpg">
 
  <img src="https://jenner.smugmug.com/Yuma-Endurance-Days/City-of-Yuma-Found-in/i-KnJbR9q/0/M/minnesota-6-M.jpg">
+
+

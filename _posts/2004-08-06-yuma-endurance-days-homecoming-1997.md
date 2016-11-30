@@ -1,8 +1,15 @@
---- 
+---
 layout: post
 title: The City of Yuma comes home
-image: /img/thumbs/yed-homecoming.png
 description: Unpacking the plane in its new home.
+type: photos
+destination: endurance-days
+category: endurance
+subcat: 
+location: 
+image: /img/thumbs/yed-homecoming.png
+permalink: 
+publish: yes
 ---
 
  <img src="https://jenner.smugmug.com/Yuma-Endurance-Days/City-of-Yuma-Homecoming/i-z48W7p3/0/M/homecoming-1-M.jpg">
@@ -60,3 +67,5 @@ Inside: Jim Gillaspie, John Bazemore. Outside: Garth Worthen, Rudy Schantek, Jer
 Rudy Schantek, Jerry Lillie, Garth Worthen
 
  <img src="https://jenner.smugmug.com/Yuma-Endurance-Days/City-of-Yuma-Homecoming/i-X6kWHQq/0/M/penn-M.jpg">
+
+

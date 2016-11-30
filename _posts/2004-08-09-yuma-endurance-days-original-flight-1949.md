@@ -1,8 +1,15 @@
---- 
+---
 layout: post
 title: The original world record endurance flight
-image: /img/thumbs/yed-original.png
 description: Photos of Bob and Woody's 1949 world endurance record flight. 
+type: photos
+destination: endurance-days
+category: endurance
+subcat: 
+location: 
+image: /img/thumbs/yed-original.png
+permalink: 
+publish: yes
 ---
 
  <img src="https://jenner.smugmug.com/Yuma-Endurance-Days/1949-World-Record-Flight/i-CQwbK2Z/0/M/originals-1-M.jpg">
@@ -51,4 +58,5 @@ October 10, 1949.
  <img src="https://jenner.smugmug.com/Yuma-Endurance-Days/1949-World-Record-Flight/i-3f4Xhkk/0/M/originals-9-M.jpg">
 
 Bob and Woody before flight at Marsh Airport. 1949.
+
 

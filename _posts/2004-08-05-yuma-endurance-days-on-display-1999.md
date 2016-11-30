@@ -1,8 +1,15 @@
---- 
+---
 layout: post
 title: On display for fundraising 
-image: /img/thumbs/yed-ondisplay.png
 description: After its return to Yuma, the plane needs funding.
+type: photos
+destination: endurance-days
+category: endurance
+subcat: 
+location: 
+image: /img/thumbs/yed-ondisplay.png
+permalink: 
+publish: yes
 ---
 
  <img src="https://jenner.smugmug.com/Yuma-Endurance-Days/Cty-of-Yuma-Fundraising/i-B44PNWj/0/M/ondisplay-1-M.jpg">
@@ -48,4 +55,5 @@ the fundraiser at Britain Farms. March 14, 1999.
 Shirley Burch and son, Kristoffer, inspecting the plane after its arrival in Yuma.
 
  <img src="https://jenner.smugmug.com/Yuma-Endurance-Days/Cty-of-Yuma-Fundraising/i-KV9MVqX/0/M/ondisplay-20-M.jpg">
+
 

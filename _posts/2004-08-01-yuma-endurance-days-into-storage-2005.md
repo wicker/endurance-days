@@ -1,7 +1,15 @@
---- 
+---
 layout: post
 title: Putting the City of Yuma Into Storage
+description: Moving the airplane to Fire House 3 for storage.
+type: photos
+destination: endurance-days
+category: endurance
+subcat: 
+location: 
 image: /img/thumbs/yed-into-storage.png
+permalink: 
+publish: yes
 ---
 
 The plane being prepared for the move from Bet-Ko Air to Fire House 3. 
@@ -24,4 +32,5 @@ The plane being prepared for the move from Bet-Ko Air to Fire House 3.
  <img src="https://jenner.smugmug.com/Yuma-Endurance-Days/Putting-the-City-of-Yuma-into/i-R8jrdPJ/0/M/preparation-6-M.jpg">
 
  <img src="https://jenner.smugmug.com/Yuma-Endurance-Days/Putting-the-City-of-Yuma-into/i-Xq56ZCC/0/M/preparation-7-M.jpg">
+
 

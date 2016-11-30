@@ -1,8 +1,15 @@
---- 
+---
 layout: post
 title: Bob Woodhouse Funeral
-image: /img/thumbs/yed-flown-west.png
 description: The funeral of Bob Woodhouse, one of the endurance record pilots.  
+type: photos
+destination: endurance-days
+category: endurance
+subcat: 
+location: 
+image: /img/thumbs/yed-flown-west.png
+permalink: 
+publish: yes
 ---
 
  <img src="https://jenner.smugmug.com/Yuma-Endurance-Days/Bob-Woodhouse-Funeral/i-v8RqW6f/0/M/flown-west-1-M.jpg">
@@ -25,4 +32,5 @@ honor of Bob Woodhouse at Desert Lawn on December 23, 2003.
  <img src="https://jenner.smugmug.com/Yuma-Endurance-Days/Bob-Woodhouse-Funeral/i-v6JqDr2/0/M/funeral-booklet-2-M.jpg">
 
 Funeral booklet.
+
 

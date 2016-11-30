@@ -1,8 +1,15 @@
---- 
+---
 layout: post
 title: Fifty-year Reenactment Flight
-image: /img/thumbs/yed-reenactment.png
 description: Fifty years later, the plane and pilots reunite in Yuma.
+type: photos
+destination: endurance-days
+category: endurance
+subcat: 
+location: 
+image: /img/thumbs/yed-reenactment.png
+permalink: 
+publish: yes
 ---
 
  <img src="https://jenner.smugmug.com/Yuma-Endurance-Days/50th-Anniversary-Reenactment/i-xKKcHVv/0/M/reenactment-1-M.jpg">
@@ -96,5 +103,6 @@ Shirley and George Murdock at their home, February 2000.
  <img src="https://jenner.smugmug.com/Yuma-Endurance-Days/50th-Anniversary-Reenactment/i-Zc2FCMd/0/M/reenactment-9-M.jpg">
 
 Ready for her flight. October 10, 1999.
+
 
 
