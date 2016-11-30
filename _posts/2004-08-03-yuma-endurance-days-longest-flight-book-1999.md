@@ -1,11 +1,18 @@
---- 
+---
 layout: post
 title: Book signing for The Longest Flight
+description: 
+type: photos
+destination: endurance-days
+category: endurance
+subcat: 
+location: 
 image: /img/thumbs/yed-book.png
-desription: The book signing for The Longest Flight's release. 
+permalink: 
+publish: yes
 ---
 
- <img src="https://lh5.googleusercontent.com/ydRIMd7o-3rXW_xf9B-N0SvScNieR0DdgbAVdudH8A=w640-h434-no">
+ <img src="https://jenner.smugmug.com/Yuma-Endurance-Days/Promoting-the-Longest-Flight/i-w8R4ccS/0/M/authors-3-M.jpg">
 
 Shirley and Jim at their book signing at Hasting's. September 12, 1999.
 
@@ -13,6 +20,8 @@ Shirley and Jim at their book signing at Hasting's. September 12, 1999.
 
 Shirley and Jim at their book signing at Walgreen's. September 1999.
 
- <img src="https://lh5.googleusercontent.com/-TDeND6hKwXI/T6MK151o4tI/AAAAAAAAEI0/jDmrAQgKBuw/w331-h521-no/thelongestflight.jpg">
+ <img src="https://jenner.smugmug.com/Yuma-Endurance-Days/Promoting-the-Longest-Flight/i-NCHpQbj/0/M/thelongestflight-M.jpg">
 
 The book itself.
+
+
