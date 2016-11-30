@@ -1,8 +1,15 @@
---- 
+---
 layout: post
 title: Collected Articles
-image: /img/thumbs/yed-articles.png
 description: A collection of magazine articles from 1949 to now.
+type: photos
+destination: endurance-days
+category: endurance
+subcat: 
+location: 
+image: /img/thumbs/yed-articles.png
+permalink: 
+publish: yes
 ---
 
 <div style="clear:both;">&nbsp;<div>
@@ -17,3 +24,5 @@ description: A collection of magazine articles from 1949 to now.
 <div class="blogthumb"><a href="/articles/2004-inventletter.pdf"><img src="/img/articles/2004-inventletter.jpg">Letter to the Editor</a><br />Inventions and Tech<br />2004</div>
 <div class="blogthumb"><a href="/articles/2006-yuma-crossing-legacy.pdf"><img src="/img/articles/yuma-crossing-legacy.jpg">The Yuma Crossing Legacy</a><br />Yuma Jaycees<br />2006</div>
 </div>
+
+

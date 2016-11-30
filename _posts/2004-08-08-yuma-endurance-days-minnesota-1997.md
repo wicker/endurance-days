@@ -1,54 +1,63 @@
---- 
+---
 layout: post
 title: Found in Minnesota
-image: /img/thumbs/yed-minnesota.png
 description: The plane was located in Minnesota in 1997.
+type: photos
+destination: endurance-days
+category: endurance
+subcat: 
+location: 
+image: /img/thumbs/yed-minnesota.png
+permalink: 
+publish: yes
 ---
 
- <img src="https://lh5.googleusercontent.com/-4GT62xbFWFQ/T6MHCuzMwKI/AAAAAAAAD8A/0iE9MdwH7TI/w640-h480-no/minnesota-1.jpg">
+ <img src="https://jenner.smugmug.com/Yuma-Endurance-Days/City-of-Yuma-Found-in/i-kmFbnL4/0/M/minnesota-1-M.jpg">
 
 The <em>City of Yuma</em> in Minnesota, 1997.
 
- <img src="https://lh5.googleusercontent.com/-O9uDC1dkRtk/T6MHEQizsWI/AAAAAAAAD8w/GnZ0KfVp7Ec/w640-h426-no/minnesota-4.jpg">
+ <img src="https://jenner.smugmug.com/Yuma-Endurance-Days/City-of-Yuma-Found-in/i-5q6V3bD/0/M/minnesota-4-M.jpg">
 
 Ron Spencer and Charlie Neal
 
- <img src="https://lh4.googleusercontent.com/-daOVx3icz8Y/T6MHE8RXCpI/AAAAAAAAD9c/P88mdiwWYc8/w640-h434-no/minnesota-7.jpg">
+ <img src="https://jenner.smugmug.com/Yuma-Endurance-Days/City-of-Yuma-Found-in/i-QJLJMVK/0/M/minnesota-7-M.jpg">
 
- <img src="https://lh4.googleusercontent.com/-6AuvWaIdFWY/T6MHE76C7rI/AAAAAAAAD9M/R-xGOl07V20/w640-h431-no/minnesota-9.jpg">
+ <img src="https://jenner.smugmug.com/Yuma-Endurance-Days/City-of-Yuma-Found-in/i-LDfgtdM/0/M/minnesota-9-M.jpg">
 
 
 Chris and Charlie Neal
 
- <img src="https://lh5.googleusercontent.com/-aRAFkY7xnZY/T6MHCmSj57I/AAAAAAAAD74/AJmRzyinhQM/w640-h432-no/minnesota-13.jpg">
+ <img src="https://jenner.smugmug.com/Yuma-Endurance-Days/City-of-Yuma-Found-in/i-9xKrxkz/0/M/minnesota-13-M.jpg">
 
 Jim Gillaspie
 
- <img src="https://lh3.googleusercontent.com/-toNcxV3kHxU/T6MHCsTIRmI/AAAAAAAAD78/Wjmylk_17i0/w640-h437-no/minnesota-14.jpg">
+ <img src="https://jenner.smugmug.com/Yuma-Endurance-Days/City-of-Yuma-Found-in/i-nrcNM4Z/0/M/minnesota-14-M.jpg">
 
- <img src="https://lh4.googleusercontent.com/-K0SenQ7NTfs/T6MHDIBVCAI/AAAAAAAAD8Q/xg3v5aDnOs0/w640-h435-no/minnesota-15.jpg">
+ <img src="https://jenner.smugmug.com/Yuma-Endurance-Days/City-of-Yuma-Found-in/i-Zbp3hbJ/0/M/minnesota-15-M.jpg">
 
 Charlie Neal and the photographer from the Staples, Minnesota, newspaper.
 
- <img src="https://lh5.googleusercontent.com/-FKVIcoAbUjE/T6MHD_mVUCI/AAAAAAAAD8k/NGlLueLx5wQ/w640-h433-no/minnesota-18.jpg">
+ <img src="https://jenner.smugmug.com/Yuma-Endurance-Days/City-of-Yuma-Found-in/i-7wBgsGX/0/M/minnesota-18-M.jpg">
 
- <img src="https://lh5.googleusercontent.com/-4WQjhsQisUc/T6MHD0F0RpI/AAAAAAAAD8g/2AJkBpDc4zM/w640-h434-no/minnesota-20.jpg">
+ <img src="https://jenner.smugmug.com/Yuma-Endurance-Days/City-of-Yuma-Found-in/i-tLFwn4t/0/M/minnesota-20-M.jpg">
 
 Loading the fuselage into the Ryder truck. Staples, Minnesota. July 9, 1997. 
 Chris Neal, Gim Gillaspie, and Ron Spencer.
 
- <img src="https://lh5.googleusercontent.com/-PRoBXxLM-t0/T6MHFCy-GBI/AAAAAAAAD9Y/YqFcdrPY9_8/w640-h435-no/minnesota-c.jpg">
+ <img src="https://jenner.smugmug.com/Yuma-Endurance-Days/City-of-Yuma-Found-in/i-xz2fRq8/0/M/minnesota-c-M.jpg">
 
- <img src="https://lh4.googleusercontent.com/-i3y4ngpHQQ8/T6MHFV8H0mI/AAAAAAAAD9o/opaKkMLPjro/w640-h432-no/minnesota-d.jpg">
+ <img src="https://jenner.smugmug.com/Yuma-Endurance-Days/City-of-Yuma-Found-in/i-8pZhxjK/0/M/minnesota-d-M.jpg">
 
 Charlie Neal's farm.
 
- <img src="https://lh5.googleusercontent.com/-LtthlWFeXNE/T6MHD3GxhxI/AAAAAAAAD84/ecIbPUtpbP4/w640-h433-no/minnesota-16.jpg">
+ <img src="https://jenner.smugmug.com/Yuma-Endurance-Days/City-of-Yuma-Found-in/i-KjJRrFc/0/M/minnesota-16-M.jpg">
 
- <img src="https://lh4.googleusercontent.com/-5S_sHZnnMhc/T6MHDLT_V7I/AAAAAAAAD8M/7wP9zEj7SHQ/w505-h480-no/minnesota-17.jpg">
+ <img src="https://jenner.smugmug.com/Yuma-Endurance-Days/City-of-Yuma-Found-in/i-R2f4QBs/0/M/minnesota-17-M.jpg">
 
 City of Yuma as a float plane.
 
- <img src="https://lh3.googleusercontent.com/-2OCJdUIBa5E/T6MHESk-ZKI/AAAAAAAAD80/PUngv1sY5t4/w640-h429-no/minnesota-5.jpg">
+ <img src="https://jenner.smugmug.com/Yuma-Endurance-Days/City-of-Yuma-Found-in/i-sZ6ppS2/0/M/minnesota-5-M.jpg">
 
- <img src="https://lh6.googleusercontent.com/-Z0O4fIYH8TY/T6MHEhr7cGI/AAAAAAAAD9E/ifGtxvNE5QQ/w640-h422-no/minnesota-6.jpg">
+ <img src="https://jenner.smugmug.com/Yuma-Endurance-Days/City-of-Yuma-Found-in/i-KnJbR9q/0/M/minnesota-6-M.jpg">
+
+
